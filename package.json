@@ -1,0 +1,23 @@
+{
+  "name": "foodtracking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch-wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NayyerAhmad/Food-Tracking-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NayyerAhmad/Food-Tracking-App/issues"
+  },
+  "homepage": "https://github.com/NayyerAhmad/Food-Tracking-App#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
