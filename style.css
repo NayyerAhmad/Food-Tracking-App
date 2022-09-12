@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    place-items: center;
+    flex-direction: column;
+}
+
+section {
+    padding: 2rem 3rem 1rem 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.container_food {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+select {
+    width: 55%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.nutritions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+button {
+    width: 60%;
+}
+.container_log {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.container_loggedFood {
+    display: flex;
+    margin: 2rem 2rem;
+}
